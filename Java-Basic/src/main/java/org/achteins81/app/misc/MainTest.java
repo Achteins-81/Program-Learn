@@ -3,7 +3,11 @@ package org.achteins81.app.misc;
 import java.util.Arrays;
 import java.util.List;
 
-public class mainTest {
+/**
+ * @author Achteins-81
+ * @since 2024-02-07
+ */
+public class MainTest {
     public static void main(String[] args) {
         String fruitStr = "apple,pear,banana,orange";
         String[] fruits = fruitStr.split(",");
